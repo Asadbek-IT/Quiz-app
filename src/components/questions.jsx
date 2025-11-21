@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "The is the capital of UK?",
+        question: "Whatis the capital of UK?",
         options: ["Berlin", "Tashkent", "London", "Moskov"],
         answer: "London",
     },
